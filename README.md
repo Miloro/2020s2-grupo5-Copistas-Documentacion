@@ -2,7 +2,9 @@
   <img src="logo/logo_copistas1.png" />
 </p>
 
-### Copistas es una herramienta que permite gestionar la administracion del Centro de Copistas Para Ciegos
+### Copistas 
+
+Es una herramienta que permite gestionar la administracion del Centro de Copistas Para Ciegos
 Santa Rosa de Lima.
 
  ####  Ver la wiki de este repo para la documentación: https://github.com/Miloro/2020s2-grupo5-Copistas-Documentacion/wiki
