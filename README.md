@@ -2,7 +2,7 @@
   <img src="imagenes/logo_copistas1.png" />
 </p>
 
-### Libraille 
+## Libraille 
 
 Es una herramienta que permite gestionar la administracion del Centro de Copistas Para Ciegos
 Santa Rosa de Lima.
