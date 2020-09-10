@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo/logo_copistas1.png" />
+  <img src="imagenes/logo_copistas1.png" />
 </p>
 
 ### Copistas 
