@@ -4,6 +4,10 @@
 
 ## Libraille 
 
+Integrantes: 
+ Miguel Miloro
+ Fernando Blanco
+
 Es una herramienta que permite gestionar la administracion del Centro de Copistas Para Ciegos
 Santa Rosa de Lima.
 
